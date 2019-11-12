@@ -5,3 +5,4 @@ Proposed and implemented a novel algorithm to control existing old laundry machi
 ![flow](https://github.com/PatilVrush/IOT_Based_Control_of_Laundry_Machines/blob/master/flow.png)
 ![working](https://github.com/PatilVrush/IOT_Based_Control_of_Laundry_Machines/blob/master/working_1.png)
 ![working2](https://github.com/PatilVrush/IOT_Based_Control_of_Laundry_Machines/blob/master/working_2.png)
+![Comparison](https://github.com/PatilVrush/IOT_Based_Control_of_Laundry_Machines/blob/master/existing_vs_new.png)
